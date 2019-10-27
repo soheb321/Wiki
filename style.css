@@ -1,0 +1,17 @@
+h1{
+    text-align: center;
+    color: black;
+
+}
+html{
+    background: white;
+    
+
+}
+
+.searchResults {
+    padding: 20 px 0 50px;
+    margin-left: 140px;
+    width: 550px;
+    text-align: left;
+}
